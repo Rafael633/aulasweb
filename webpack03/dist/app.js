@@ -16,7 +16,7 @@
   \*************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _scss_style_scss__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../scss/style.scss */ \"./src/scss/style.scss\");\n\nconsole.log(\"Hello Lorena\"); // variável recebe o nosso aplicativo\n\nvar app = document.getElementById(\"app\"); // variável recebe a criação de um elemento virtual chamado h1\n\nvar hello = document.createElement('hi'); // inserimos dentro deste elemento virtual um HTML usando innerHTML\n\nhello.innerHTML = \"Hi bem vindo!\"; //acrescentamos ao elemento 'app' o elemento 'hello'\n\napp.append(hello);\n\n//# sourceURL=webpack://webpack03/./src/js/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _scss_style_scss__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../scss/style.scss */ \"./src/scss/style.scss\");\n\nconsole.log(\"Hello Lorena\"); // variável recebe o nosso aplicativo\n\nvar app = document.getElementById(\"app\"); // variável recebe a criação de um elemento virtual chamado h1\n\nvar hello = document.createElement(\"hi\"); // inserimos dentro deste elemento virtual um HTML usando innerHTML\n\nhello.innerHTML = \"Hi bem vindo!\"; //acrescentamos ao elemento 'app' o elemento 'hello'\n\napp.append(hello);\n\n//# sourceURL=webpack://webpack03/./src/js/index.js?");
 
 /***/ }),
 
